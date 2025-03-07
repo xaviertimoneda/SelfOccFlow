@@ -1,7 +1,7 @@
 ---
-title : SelfOccFlow: TBD
+title : SelfOccFlow
 logo : assets/logo.png # Path to your logo (optional)
-description: >-
+description : >-
   A brief description of your project.
   You can write multiple lines here.
 theme : jekyll-theme-minimal # Uses GitHub Pages' minimal theme
